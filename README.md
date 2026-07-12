@@ -1,1 +1,1 @@
-# LLD-self-notes---Python3
+# LLD-notes---Python3
